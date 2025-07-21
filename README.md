@@ -4,21 +4,7 @@
 3. Analyze customer behavior to improve retention and engagement.
 4. Evaluate sales trends to understand revenue patterns and growth.
 
-## 🛠️ Tech Stack
-- **Database:** MySQL
-- **Tools:** SQL, MySQL Workbench
 
-## 📂 Project Structure
-```
-Retail_Analytics_SQL_Project/
-│── data/                   # Sample or anonymized dataset
-│── queries/                # SQL queries used in analysis
-│   ├── data_cleaning.sql   # Queries for data preprocessing
-│   ├── product_analysis.sql # Queries for product performance analysis
-│   ├── customer_analysis.sql # Queries for customer segmentation & behavior
-│   ├── sales_trends.sql    # Queries for sales trends & growth analysis
-│── reports/                # Documentation & analysis reports
-│── README.md               # Project documentation
 ```
 
 ## 📝 SQL Queries Breakdown
